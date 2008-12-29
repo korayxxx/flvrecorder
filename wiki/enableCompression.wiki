@@ -4,4 +4,4 @@
 
 The _enableCompression_ property will compress the captured image with the JPGEncoder.
 
-*Warning!* Using this property will slow you application down.
+*Warning!* Using this property will slow youre application down.
