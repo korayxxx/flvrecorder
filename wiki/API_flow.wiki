@@ -20,7 +20,7 @@ the duration is optional, it will be automaticly filled in when left blank.
 recorder.captureComponent(vidDisplay)	  //DisplayObject, takes a screenshot from that component
 recorder.saveFrame(bmpdata)   //Bitmapdata, does nothing with it
 recorder. saveSmoothedBitmapFrame(bmp)   //Bitmap, smooths before saving
-recorder. saveSmoothedFrame(bmpdata)  //Bitmapdata, smooths bitmapdata before saving
+recorder.saveSmoothedFrame(bmpdata)  //Bitmapdata, smooths bitmapdata before saving
 }}}
 
  4  To stop recording, simply command the class to stop, it will start to convert your saved data to the flv-file
